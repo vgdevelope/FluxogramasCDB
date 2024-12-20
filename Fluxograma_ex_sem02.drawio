@@ -85,21 +85,6 @@
             <mxPoint x="106" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="F_5CZEHVWxJ2lF3WmD1E-31" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="308.5" y="130" width="211" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="F_5CZEHVWxJ2lF3WmD1E-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=2;" vertex="1" parent="F_5CZEHVWxJ2lF3WmD1E-31">
-          <mxGeometry x="22.210526315789473" width="166.57894736842104" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="F_5CZEHVWxJ2lF3WmD1E-16" value="&lt;p&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 20px;&quot;&gt;INICIO&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="F_5CZEHVWxJ2lF3WmD1E-31">
-          <mxGeometry y="22.857142857142854" width="211" height="34.285714285714285" as="geometry" />
-        </mxCell>
-        <mxCell id="F_5CZEHVWxJ2lF3WmD1E-40" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0.567;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="F_5CZEHVWxJ2lF3WmD1E-31" target="F_5CZEHVWxJ2lF3WmD1E-8">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="113.5" y="60" as="sourcePoint" />
-            <mxPoint x="119.5" y="134" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="F_5CZEHVWxJ2lF3WmD1E-32" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="335.5" y="1050" width="157" height="80" as="geometry" />
         </mxCell>
@@ -108,6 +93,21 @@
         </mxCell>
         <mxCell id="F_5CZEHVWxJ2lF3WmD1E-17" value="&lt;p&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 20px;&quot;&gt;FIM&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="F_5CZEHVWxJ2lF3WmD1E-32">
           <mxGeometry x="45.228476821192054" y="25" width="79.01986754966887" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="F_5CZEHVWxJ2lF3WmD1E-3" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="330.7105263157895" y="130" width="166.57894736842104" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="F_5CZEHVWxJ2lF3WmD1E-16" value="&lt;p&gt;&lt;font face=&quot;Verdana&quot; style=&quot;font-size: 20px;&quot;&gt;INICIO&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="308.5" y="152.85714285714286" width="211" height="34.285714285714285" as="geometry" />
+        </mxCell>
+        <mxCell id="F_5CZEHVWxJ2lF3WmD1E-40" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=2;entryX=0.567;entryY=0.075;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="F_5CZEHVWxJ2lF3WmD1E-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="422" y="190" as="sourcePoint" />
+            <mxPoint x="428" y="264" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="F_5CZEHVWxJ2lF3WmD1E-46" value="&lt;p&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;1) CONSTRUIR UM PROGRAMA EM PORTUGOL QUE RECEBA AS INFORMAÇÕES:&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;- NOME&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;- ANO DE NASCIMENTO&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;- TIPO SANGUINEO&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font face=&quot;Verdana&quot;&gt;&lt;span style=&quot;font-size: 20px;&quot;&gt;- RENDA MENSAL&lt;/span&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="509" y="120" width="297.5" height="430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
